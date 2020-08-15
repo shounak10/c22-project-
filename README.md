@@ -1,2 +1,1 @@
-# c22-project-
-supply mission 1
+# SupplyMission
